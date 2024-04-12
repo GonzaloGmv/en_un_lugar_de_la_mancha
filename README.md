@@ -6,6 +6,7 @@ El link a este repositorio es: [github](https://github.com/GonzaloGmv/en_un_luga
 Los colaboradores somos:
 * Alexandre Muñoz
 * Gonzalo Martínez
+* Miguel González
 
 # Resolución del problema
 
