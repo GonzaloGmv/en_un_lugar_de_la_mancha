@@ -9,4 +9,4 @@ Los colaboradores somos:
 
 # Resolución del problema
 
-Para resolver el problema hemos usado un cifrado Book cipher, pero para ello hemos que tenido que modificar las posiciones que nos habian dado ya que las que teniamos correspondian con las páginas del libro original y en el pdf hay páginas en blanco que hay que tener en cuenta, fotos y además los encabezados también hay que tenerlo en cuenta.
+Para resolver el problema hemos usado un cifrado Book cipher, pero hemos que tenido que modificar las posiciones que nos habian dado ya que las que teniamos correspondian con las páginas del libro original y en el pdf hay páginas en blanco, fotos y además encabezados que hay que tener en cuenta.
